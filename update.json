@@ -1,6 +1,6 @@
 {
   "pluginName": "helpers",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.0",
   "downloadUrl": "https://gumroad.com/l/helpers",
   "releaseNotes": "Initial release. Logo Grid, Clearspace, and Base Grid tools for Adobe Illustrator.",
   "minIllustratorVersion": "23.0",
