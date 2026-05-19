@@ -1,8 +1,8 @@
 {
   "pluginName": "helpers",
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.2.1",
   "downloadUrl": "https://helperstudio.pro/download-helpers.php",
-  "releaseNotes": "Bug fixed.",
+  "releaseNotes": "Fixed outline opacity behavior for objects. Added two circular grid complexity levels.",
   "minIllustratorVersion": "23.0",
   "publishedAt": "2026-02-11T00:00:00Z"
 }
